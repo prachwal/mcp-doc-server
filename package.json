@@ -39,5 +39,12 @@
   "files": [
     "index.js",
     "lib/"
-  ]
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "dotenv": "^16.0.0",
+    "gray-matter": "^4.0.3",
+    "ioredis": "^5.3.0",
+    "zod": "^4.0.0"
+  }
 }
